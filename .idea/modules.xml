@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RxSpace.iml" filepath="$PROJECT_DIR$/RxSpace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-rxspace.iml" filepath="$PROJECT_DIR$/android-rxspace.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
