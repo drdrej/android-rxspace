@@ -6,8 +6,8 @@ android {
 
     defaultConfig {
         applicationId "com.touchableheroes.rxspace"
-        minSdkVersion 14
-        targetSdkVersion 23
+        minSdkVersion 9er
+        targetSdkVersion 21
         versionCode 1
         versionName "1.0"
     }
