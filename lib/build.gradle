@@ -4,8 +4,8 @@ android {
     compileSdkVersion 23
     buildToolsVersion "23.0.3"
 
-    defaultConfig { /*         applicationId "com.touchableheroes.rxspace"*/
-        minSdkVersion 9 /* wegen gmaps api */
+    defaultConfig {
+        minSdkVersion 9
         targetSdkVersion 21
         versionCode 8
         versionName "0.0.8"
