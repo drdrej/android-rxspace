@@ -1,4 +1,7 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
     package="com.touchableheroes.rxspace">
 
     <application
@@ -6,7 +9,10 @@
         android:icon="@mipmap/ic_rxspace_launcher"
         android:label="RxSpace"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme">
+        android:theme="@style/AppTheme"
+
+        tools:replace="android:allowBackup, android:icon, android:label, android:supportsRtl, android:theme"
+        >
 
     </application>
 

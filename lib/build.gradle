@@ -7,8 +7,8 @@ android {
     defaultConfig { /*         applicationId "com.touchableheroes.rxspace"*/
         minSdkVersion 9 /* wegen gmaps api */
         targetSdkVersion 21
-        versionCode 1
-        versionName "1.0"
+        versionCode 8
+        versionName "0.0.8"
     }
     buildTypes {
         release {
