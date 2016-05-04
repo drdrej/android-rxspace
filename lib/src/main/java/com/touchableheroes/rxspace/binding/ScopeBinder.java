@@ -9,7 +9,8 @@ import java.util.ArrayList;
 /**
  * Created by asiebert on 19.04.16.
  */
-public class ScopeBinder implements Scope {
+public class ScopeBinder
+        implements Scope {
 
     private Scope src;
     private ArrayList<Integer> ids = new ArrayList<>(10);

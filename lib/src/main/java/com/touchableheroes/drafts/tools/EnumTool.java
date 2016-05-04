@@ -55,6 +55,7 @@ public class EnumTool {
             return type.getAnnotation(key);
         }
 
+
     }
 
     public static EnumWrapper withEnum(final Enum enumX) {
