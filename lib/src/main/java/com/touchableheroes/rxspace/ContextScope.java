@@ -3,7 +3,14 @@ package com.touchableheroes.rxspace;
 import android.content.Context;
 import android.util.SparseArray;
 
+import com.touchableheroes.rxspace.binding.ScopeBinder;
 import com.touchableheroes.rxspace.ids.IdFactory;
+import com.touchableheroes.rxspace.path.PathResolver;
+import com.touchableheroes.rxspace.path.PathResolverImpl1;
+import com.touchableheroes.rxspace.values.ChangeValueListener;
+import com.touchableheroes.rxspace.values.ChangeValueListenerManager;
+import com.touchableheroes.rxspace.values.HasValuesListener;
+import com.touchableheroes.rxspace.values.IChangeValueListener;
 import com.touchableheroes.rxspace.vars.Var;
 
 /**

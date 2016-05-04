@@ -1,7 +1,7 @@
 package com.touchableheroes.rxspace.vars;
 
 import android.util.SparseArray;
-import com.touchableheroes.rxspace.IChangeValueListener;
+import com.touchableheroes.rxspace.values.IChangeValueListener;
 
 
 /**

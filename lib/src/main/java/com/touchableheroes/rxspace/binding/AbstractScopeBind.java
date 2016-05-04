@@ -1,4 +1,7 @@
-package com.touchableheroes.rxspace;
+package com.touchableheroes.rxspace.binding;
+
+import com.touchableheroes.rxspace.IHasScope;
+import com.touchableheroes.rxspace.Scope;
 
 /**
  * Created by asiebert on 04.03.16.

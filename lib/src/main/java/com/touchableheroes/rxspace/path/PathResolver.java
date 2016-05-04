@@ -1,4 +1,4 @@
-package com.touchableheroes.rxspace;
+package com.touchableheroes.rxspace.path;
 
 /**
  * Created by asiebert on 08.12.15.

@@ -1,4 +1,6 @@
-package com.touchableheroes.rxspace;
+package com.touchableheroes.rxspace.values;
+
+import com.touchableheroes.rxspace.IHasScope;
 
 /**
  * Created by asiebert on 08.12.15.

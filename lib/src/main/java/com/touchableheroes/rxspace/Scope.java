@@ -1,5 +1,9 @@
 package com.touchableheroes.rxspace;
 
+import com.touchableheroes.rxspace.binding.ScopeBinder;
+import com.touchableheroes.rxspace.values.ChangeValueListenerManager;
+import com.touchableheroes.rxspace.values.HasValuesListener;
+
 /**
  * Created by asiebert on 08.12.15.
  */

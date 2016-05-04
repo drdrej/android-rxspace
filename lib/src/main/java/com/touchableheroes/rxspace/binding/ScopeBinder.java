@@ -1,4 +1,8 @@
-package com.touchableheroes.rxspace;
+package com.touchableheroes.rxspace.binding;
+
+import com.touchableheroes.rxspace.Scope;
+import com.touchableheroes.rxspace.values.HasValuesListener;
+import com.touchableheroes.rxspace.values.IChangeValueListener;
 
 import java.util.ArrayList;
 

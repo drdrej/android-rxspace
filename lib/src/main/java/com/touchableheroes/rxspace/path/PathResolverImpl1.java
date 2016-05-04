@@ -1,4 +1,4 @@
-package com.touchableheroes.rxspace;
+package com.touchableheroes.rxspace.path;
 
 import com.touchableheroes.rxspace.vars.VarPath;
 
