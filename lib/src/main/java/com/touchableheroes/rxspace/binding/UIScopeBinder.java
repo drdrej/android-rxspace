@@ -59,6 +59,24 @@ public class UIScopeBinder extends ScopeBinder {
 
     public void updateUI() {
         for (final UIBindingInstance binder : binders) {
+            /*
+            ...
+            use Main Looper here
+
+                    interface KeyValueStore
+                        get
+
+                                WritableKeyValueStore
+
+
+            binder.getView().post(new Runnable() {
+
+                @Override
+                public void run() {
+                    binder.update(getScope());
+                }
+            });
+*/
             binder.update(getScope());
         }
     }

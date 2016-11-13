@@ -46,4 +46,7 @@ public class UIBindingInstance {
     }
 
 
+    public View getView() {
+        return view;
+    }
 }

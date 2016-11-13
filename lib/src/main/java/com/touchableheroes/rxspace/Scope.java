@@ -45,8 +45,7 @@ public interface Scope
                 return (Scope) src;
             } else {
                 // TODO: return findByReflection(src);
-                // throw new UnsupportedOperationException();
-                return null;
+                throw new UnsupportedOperationException( "by reflection is not implemented yet." );
             }
         }
     }
